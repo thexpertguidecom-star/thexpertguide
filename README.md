@@ -1,16 +1,1 @@
-# TheExpertGuide
-
-## Quick Start
-
-```bash
-npm install
-npm run dev
-```
-
-Visit: http://localhost:3000
-
-## Deploy
-
-Push to GitHub and deploy on Vercel.com
-
-Live at: https://thexpertguide.vercel.app
+Hi,its a new project in collabration with [https://thexpertguide.com/](https://thexpertguide.com/) and [https://aajhub.in/](https://aajhub.in/)
